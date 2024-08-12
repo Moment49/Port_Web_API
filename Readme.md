@@ -40,6 +40,6 @@ This API is designed for a personal portfolio website, allowing you to manage pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Moment49/Portfoloi_API.git
+   git clone https://github.com/Moment49/Port_Web_API.git
    cd app
    
