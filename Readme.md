@@ -18,7 +18,7 @@ This API is designed for a personal portfolio website, allowing you to manage pr
 - **Blog Posts**
   - Add a new blog post
   - Edit an existing blog post
-   -Delete a blog by ID
+  - Delete a blog by ID
   - Delete all blogs
 
 - **Contact Information**
